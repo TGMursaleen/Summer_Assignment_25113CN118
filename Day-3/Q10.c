@@ -26,7 +26,13 @@ int main()
             }
             if(isprime==1)
             {
-                printf("%d\t",l);
+                if(l==0)
+                {
+                    continue;
+                }
+                {
+                    printf("%d\t",l);
+                }
             }
             isprime=1;
         }
