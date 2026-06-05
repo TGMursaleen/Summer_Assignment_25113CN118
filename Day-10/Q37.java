@@ -1,4 +1,4 @@
-//Star Pyramid
+//Star Pyramid code
 public class Q37 {
     public static void main(String[] arg){
         int x=0;
